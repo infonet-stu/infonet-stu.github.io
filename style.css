@@ -1422,3 +1422,15 @@ a,
 .hidden {
 	display: none;
 }
+
+.erinitem{
+	margin-top: 10px;
+}
+
+.mail {
+	margin-top: 10px;
+}
+
+.mail:hover {
+	color: #855b0d;
+}
